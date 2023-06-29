@@ -1,0 +1,36 @@
+body:hover{
+    background: url(2.gif);
+    height: 100vh;
+    
+    /*background-image: url("images.jpg");*/
+    background-size: cover;
+    padding: 250px;
+    border-radius: 5px;
+    
+    
+}
+.container:hover{
+    
+    text-align: center;
+    border: 9px groove rgba(255, 0, 0, 0.427);
+    text-align: center;
+    border-radius: 35px;
+    height: 190px;
+    width: 400px;
+    
+}
+h1{
+    font-style: italic;
+    color: blueviolet;
+}
+#Clock{
+    font-size: 30Px;
+    font-style: sans-serif;
+    color: bisque;
+}
+
+#minute{
+    font-size: 30Px;
+    font-style: sans-serif;
+    color: wheat;
+}
